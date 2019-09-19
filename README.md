@@ -29,4 +29,14 @@
 |1|Marry|F|
 |2|Bonny|F|
 
-![Snoopy](snoopy.jpg)
+```java
+public Die(int numSides)
+    {   assert numSides > 1 : "Violation of precondition: numSides = " + numSides + "numSides must be greater than 1";
+
+        iMyNumSides = numSides;
+        iMyResult = 1;
+        assert getResult() == 1 && getNumSides() == numSides;
+    }
+```
+
+![Snoopy](001.png)
