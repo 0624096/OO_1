@@ -39,4 +39,4 @@ public Die(int numSides)
     }
 ```
 
-![Snoopy](001.png)
+![Snoopy](001.png "Snoopy")
