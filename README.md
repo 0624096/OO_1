@@ -46,6 +46,6 @@ public Die(int numSides)
     }
 ```
 
-[![Baby Shark Dance](https://img.youtube.com/vi/XqZsoesa55w.jpg)](https://www.youtube.com/watch?v=XqZsoesa55w "Baby Shark Dance")
+[![Baby Shark Dance](https://img.youtube.com/vi/XqZsoesa55w/0.jpg)](https://www.youtube.com/watch?v=XqZsoesa55w "Baby Shark Dance")
 
 ![Snoopy](001.png "Snoopy")
