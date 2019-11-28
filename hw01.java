@@ -23,7 +23,7 @@ class CTriangle extends Cshape
         System.out.println("area="+0.5*length*height);       
     }
 }
-public class Homework{
+public class hw01{
     public static void main(String args[])
     {
         Cshape shape1 = new CTriangle(3,4,5);
