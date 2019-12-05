@@ -138,3 +138,18 @@ public class hw02
     }
 }
 ```
+* 1205
+```java
+    class Student {
+    Course[] courses = new Course[10];
+    }
+    class Course {
+    }
+    public class 1205
+    {
+        public static void main(String args[]){
+            Student student = new Student();
+            Course course = new Course();    
+        }
+    }
+```
